@@ -2,13 +2,13 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>과제</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+	과제
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P><a>2022.04.12 ~ 2022.04.18 / 첫번째 과제 / 리스트형 게시판</a></P>
 </body>
 </html>

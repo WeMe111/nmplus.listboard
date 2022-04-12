@@ -5,9 +5,9 @@
 ### 개발환경
 **OS**: Windows10  
 **DataBase**: MySQL  
-**Service System**: Apache Tomcat  
+**Service System**: Apache Tomcat(8.5)  
 **Framwork**: Spring3  
-**언어**: JAVA, JSP, HTML, CSS, Javascript  
+**언어**: JAVA(JDK1.8), JSP, HTML, CSS, Javascript  
 **Tool**: eclipse, MySQL  
 **Eclipse Plugin**: Emmet  
 ### 데이터베이스 테이블 구조

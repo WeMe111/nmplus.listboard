@@ -8,7 +8,8 @@
 **Service System**: Apache Tomcat  
 **Framwork**: Spring3  
 **언어**: JAVA, JSP, HTML, CSS, Javascript  
-**Tool**: eclips, MySQL 
+**Tool**: eclips, MySQL  
+**Plugin**: Emmet  
 ### 데이터베이스 테이블 구조
 1. board 게시판에 필요한 정보 수록  
 

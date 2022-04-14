@@ -23,4 +23,5 @@
 
 ## 기타
 ### BootStrap 적용  
-오픈 소스로 공개된 템플릿을 선택해 
+1. 연습 삼아 오픈 소스로 공개된 이 템플릿을 선택했다. 
+![부트스트랩1](https://user-images.githubusercontent.com/94879395/163342043-c48af0c1-05ae-45ce-8e08-4ef758ec1f18.PNG)

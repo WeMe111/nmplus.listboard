@@ -25,3 +25,10 @@
 ### BootStrap 적용  
 1. 연습 삼아 오픈 소스로 공개된 이 템플릿을 선택했다. 
 ![부트스트랩1](https://user-images.githubusercontent.com/94879395/163342043-c48af0c1-05ae-45ce-8e08-4ef758ec1f18.PNG)
+2. index.jsp파일을 views에 넣어 주고 사진에 보이는 5개의 폴더를 resources 파일에 넣어주고 돌려봤지만 변화가 없었다.
+![부트스트랩1](https://user-images.githubusercontent.com/94879395/163344320-aa881499-f5ab-4844-b059-8bb83693faba.PNG)
+3.이유는 경로를 변경을 안해서 이런 상황이 나왔다.
+![부트스트랩1](https://user-images.githubusercontent.com/94879395/163344748-28737987-88a0-43bc-a9f8-862dde692637.PNG)
+![부트스트랩1](https://user-images.githubusercontent.com/94879395/163344752-c5eead64-8d8d-4d38-a4ef-738d51ba189a.PNG)
+4. 빨간줄 부분을 수정해줬더니 잘 실행이 되었다.
+![부트스트랩1](https://user-images.githubusercontent.com/94879395/163342043-c48af0c1-05ae-45ce-8e08-4ef758ec1f18.PNG)
